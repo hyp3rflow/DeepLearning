@@ -2,3 +2,9 @@ __pycache__/
 *.gz
 *.pkl
 *.pyc
+Images/
+.vscode/
+data/
+.DS_Store
+*.xml
+*.png
